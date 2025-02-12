@@ -1,0 +1,11 @@
+body{
+	background: lightblue;
+}
+.navbar-container {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+}
+.navbar-bg{
+	background : #3f51b5;
+}
